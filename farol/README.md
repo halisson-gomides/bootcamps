@@ -1,5 +1,5 @@
 ## Farol na quebrada 
-[](img/logo_farol_na_quebrada.jpg)
+<img src="img/logo_farol_na_quebrada.jpg" style="width:150px; height:130px">
 
 ### Aula extra de python 
 Exploraremos um pouco mais o poder da [linguagem de programação mais utilizada no mundo atualmente](https://spectrum.ieee.org/top-programming-languages-2024).
