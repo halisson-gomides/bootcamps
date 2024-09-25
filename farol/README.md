@@ -11,9 +11,9 @@ Exploraremos um pouco mais o poder da [linguagem de programação mais utilizada
 #### Começando do começo
 1. Instalar o [python](http://python.org)
 2. Criar um repositório no [GitHub](https://github.com/)
-3. Instalar uma [IDE](https://code.visualstudio.com/Download) de desenvolvimento 
+3. Instalar uma IDE de desenvolvimento 
 
-![[Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/Download) [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pt-br/pycharm/download/?section=windows)
 
 4. Criar um diretório onde ficará os arquivos fonte do projeto
 5. Clonar o repositório criado no GitHub dentro do diretório criado: 
